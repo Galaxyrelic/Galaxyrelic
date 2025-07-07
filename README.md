@@ -7,13 +7,3 @@
 📖 Currently learning programming and C++.
 
 🌌 Thanks for viewing my profile! Ad astra abyssosque!
-
----
-
-💻 Repositories:
-- [Student-Code](https://github.com/Galaxyrelic/Student-Code)
-
-👥Teams:
-- [OpenCPI](https://github.com/OpenCPIsland)
-- [Riviera Café](https://github.com/Riviera-Cafe)
-

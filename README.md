@@ -6,6 +6,4 @@
 
 ⚒️ I develop on Roblox as a Builder and Programmer.
 
-🏝️ Contributor & Admin to OpenCPI, an open-source version of the Club Penguin Island client/game.
-
 🌌 Thanks for viewing my profile! Ad astra abyssosque!

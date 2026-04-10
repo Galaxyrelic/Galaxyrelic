@@ -1,6 +1,6 @@
 ⭐ Hello, I am @Galaxyrelic, but feel free to call me Galaxy!
 
-📖 Currently learning programming, C++, and Unity.
+📖 Currently learning programming and Unity.
 
 🌎 My interests include video games, development, programming, tech, and design/art!
 
